@@ -1,5 +1,11 @@
 # @backstage/plugin-techdocs-backend
 
+## 0.6.2
+
+### Patch Changes
+
+- f37992797: Got rid of some `attr` and cleaned up a bit in the TechDocs config schema.
+
 ## 0.6.1
 
 ### Patch Changes

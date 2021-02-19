@@ -1,5 +1,16 @@
 # @backstage/plugin-scaffolder
 
+## 0.6.0
+
+### Minor Changes
+
+- e8e35fb5f: Adding Search and Filter features to Scaffolder/Templates Grid
+
+### Patch Changes
+
+- Updated dependencies [2c1f2a7c2]
+  - @backstage/core@0.6.3
+
 ## 0.5.1
 
 ### Patch Changes

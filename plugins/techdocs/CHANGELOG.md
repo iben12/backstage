@@ -1,5 +1,13 @@
 # @backstage/plugin-techdocs
 
+## 0.5.8
+
+### Patch Changes
+
+- f37992797: Got rid of some `attr` and cleaned up a bit in the TechDocs config schema.
+- Updated dependencies [2c1f2a7c2]
+  - @backstage/core@0.6.3
+
 ## 0.5.7
 
 ### Patch Changes
